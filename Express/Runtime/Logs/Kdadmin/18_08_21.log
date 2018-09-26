@@ -1,0 +1,26 @@
+[ 2018-08-21T23:13:13+08:00 ] 127.0.0.1 /kdadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+NOTIC: [8] Use of undefined constant Doeradmin - assumed 'Doeradmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Doeradmin - assumed 'Doeradmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Doeradmin - assumed 'Doeradmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Doeradmin - assumed 'Doeradmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Doeradmin - assumed 'Doeradmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Undefined variable: title C:\wamp64\www\Express\Runtime\Cache\Kdadmin\90187ed16da07df5dd261e9713e76a6c.php 第 7 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+

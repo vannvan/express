@@ -1,0 +1,58 @@
+<include file="Public:header"/> 
+<extend name="Main:index"/>
+<block name="main">
+<div class="containner" style="margin-bottom:80px;">
+   <div class="row" style="margin-bottom:10px;margin-right:0">
+    <div class="col-lg-3 col-xs-11  col-xs-offset-1 col-lg-offset-9">
+       <form>
+        <div class="col-xs-8 col-lg-9">
+           <input type="text" class="form-control" placeholder="订单号" name="ordernum" value="{$_GET['ordernum']}">
+        </div>
+        <div class="col-xs-3 col-lg-3">
+           <button type="submit" class="btn btn-primary">提交</button>
+        </div>
+      </form>
+    </div>
+    </div>
+  <div class="table-responsive">
+		<div>
+			<table class="table table-striped table-hover " id="tableSort">
+			  <thead>
+			    <tr>
+			      <th>ordernum</th>
+			      <th>express</th>
+			      <th data-type="string">number</th>
+			      <th data-type="string">name</th>
+			      <th data-type="num">adress</th>
+			      <th>note</th>
+			      <th>paytime</th>
+			      <th>finishtime</th>
+			      <th>sendpeople</th>
+			    </tr>
+			  </thead>
+			  <tbody>
+			  <volist name="rows" id="row">
+			    <tr>
+			      <td style="font-size:8px">{$row.ordernum}</td>
+			      <td>{$row.express}</td>
+			      <td>{$row.number}</td>
+			      <td>{$row.name}</td>
+			      <td>{$row.area}-{$row.location}</td>
+			      <td>{$row.note}</td>
+			      <td>{$row.paytime|date="Y-m-d H:i:s",###}</td>
+			      <if condition="$row.finishtime eq null">
+			         <td>未完成</td>
+			      <else/>
+					 <td>{$row.finishtime|date="Y-m-d H:i:s",###}</td>
+			      </if>		     
+			      <td>啦啦</td>
+			    </tr>
+		      </volist>	
+			  </tbody>
+			</table>
+   </div>
+			 <div class="pages">{$page}</div>
+	    </div>
+	</div>
+</block>
+<include file="Public:footer"/>

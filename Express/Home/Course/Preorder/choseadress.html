@@ -1,0 +1,30 @@
+<include file="Public:header"/>
+<style type="text/css">
+.check-style{line-height: 65px;margin-right: 20px;font-size: 20px;}
+</style>
+<ul class="ui-list ui-list-function ui-border-tb">
+	<!-- 选定地址样式 -->
+     <volist id="row" name="rows">
+    <li class="check-btn" data-id="{$row.id}" data-userid="{$row.userid}">
+        <div class="ui-list-info ui-border-t">
+            <h4 class="ui-nowrap"><span style="width: 50px;">{$row.name}</span><span style="float: right;">{$row.mobile}</span></h4>
+            <p><b>{$row.area}-{$row.location}室</b></p>
+        </div>
+        <div>
+            <if condition="($row['sort'] eq $maxsort)">
+             <i class="fa fa-check-square check-style check-btn" data-id="{$row.id}" data-userid="{$row.userid}"></i>
+            <else/>
+            <i class="fa fa-square-o check-style check-btn" data-id="{$row.id}" data-userid="{$row.userid}"></i>
+            </if>
+        </div>
+    </li>
+     </volist>
+</ul>
+<script type="text/javascript">
+    var scope={
+    'modurl':'__MODULE__/User/modadress',
+    'jampurl':'__MODULE__/Main/index',
+  }
+</script>
+<load file="__JS__/chanAdress.js"/>
+<include file="Public:footer"/>

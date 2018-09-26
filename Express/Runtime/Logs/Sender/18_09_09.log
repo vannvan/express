@@ -1,0 +1,29 @@
+[ 2018-09-09T00:04:24+08:00 ] 113.200.157.239 /sender
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Sender\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Sender\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Sender\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Sender\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Sender\Common\function.php 第 27 行.
+
+[ 2018-09-09T00:04:25+08:00 ] 113.200.157.239 /sender/index/index.html?code=021qayDf1Vb5hA05orDf12zxDf1qayDG&state=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Sender\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Sender\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Sender\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Sender\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+NOTIC: [2] Illegal string offset 'openid' C:\wamp64\www\Express\Sender\Common\function.php 第 37 行.
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_userinfo` WHERE ( openid='{' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Sender\Common\function.php 第 43 行.
+

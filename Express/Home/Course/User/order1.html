@@ -1,0 +1,23 @@
+<include file="Public:header"/>
+<style type="text/css">
+.order-box{}
+.order-tab{height: 50px;width: 100%;line-height: 50px;text-align: center;border-bottom: 1px solid #ccc;margin-bottom: 15px;}
+.tab-op{float: left;width: 50%}
+.tab-op:nth-child(odd){}
+.current{border-bottom: 2px #f00 solid}
+.order-list{height: 100px;width: 100%;background: #ccc}
+
+</style>
+<div class="order-box">
+	<!-- 切换订单状态依靠后端数据同步切换tab样式 -->
+	<div class="order-tab">
+		<div class="tab-op current"><a href="">待收件</a></div>
+		<div class="tab-op"><a href="" class="tab-op">已完成</a></div>
+	</div>
+
+	<!--  订单列表-->
+	<div class="order-list">
+		<h3>订单编号:201548487878787</h3>
+	</div>
+</div>
+<include file="Public:footer"/>

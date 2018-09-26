@@ -1,0 +1,52 @@
+<include file="Public:header"/>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#close").click(function(){
+    $("#tips").hide();
+  });
+});
+</script>
+<style type="text/css">
+.head-content{height: 120px;width: 100%;background: #ff6666;}
+.headimg-box{height: 80px;width: 80px;margin:-40px;position: absolute;top:120px;left:50%;}
+.headimg{height: 80px;width: 80px;border-radius: 40px;}
+.user-info{height: 90px;width: 100%;border-bottom: 1px solid #e6e6e6}
+.grade,.integral{height: 65px;width: 50%;float: left;text-align: center;padding-top: 25px;}
+.option-list ul li{list-style: none; height: 48px;width: 100%;border-bottom: 1px solid #ccc;line-height: 48px;font-size: 18px;text-indent: 15px}
+.fa-angle-right{font-size: 24px;color: #ccc;float: right;line-height: 48px;margin-right: 15px;}
+</style>
+<!-- 用户头像 -->
+<div class="head-content">
+	<div class="headimg-box">
+		<img src="{$data.headimgurl}" class="headimg">
+	</div>
+</div>
+<!-- 用户信息 -->
+<div class="user-info">
+	<div class="grade">
+	等级<br/>	
+	<span style="font-size: 12px;font-weight: bolder;color: #E61212">倔强青铜</span></div>
+	<div class="integral">
+	积分<br/>
+	<span style="font-size: 12px;font-weight: bolder;color: #E61212">{$data.integral}</span></div>
+</div>
+<!-- 用户操作区 -->
+<div class="option-list">
+	<ul>
+		<div class="ui-tooltips ui-tooltips-guide" id="tips">
+			 <empty name="data">
+                <div class="ui-tooltips-cnt ui-border-b">
+                    <i></i>你的信息不完善，请<a href="__URL__/addadress/userid/{$data.id}">点击这里</a>完善信息!<a class="ui-icon-close" id="close"></a>
+                </div>
+            </empty>      
+        </div>
+		<li onclick='window.location="__URL__/order/id/{$data.id}"'>我的订单<span><i class="fa fa-angle-right"></i></span></li>
+		<li onclick='window.location="__URL__/records"'>代取记录<span><i class="fa fa-angle-right"></i></span></li>
+		<li onclick='window.location="__URL__/adressinfo/id/{$data.id}"'>地址管理<span><i class="fa fa-angle-right"></i></span></li>
+		<!-- <li onclick='window.location="__URL__/feedback"'>反馈建议<span><i class="fa fa-angle-right"></i></span></li> -->
+		<li onclick='window.location="__URL__/aboutus"'>关于我们<span><i class="fa fa-angle-right"></i></span></li>
+		
+		<!-- <li>我的订单<span><i class="fa fa-angle-right"></i></span></li> -->
+	</ul>
+</div>
+<include file="Public:footer"/>

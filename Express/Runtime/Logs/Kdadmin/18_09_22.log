@@ -1,0 +1,392 @@
+[ 2018-09-22T00:28:36+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000388s ]
+
+[ 2018-09-22T00:28:58+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+
+[ 2018-09-22T00:29:48+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000402s ]
+
+[ 2018-09-22T00:29:49+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000384s ]
+
+[ 2018-09-22T00:29:49+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000397s ]
+
+[ 2018-09-22T00:29:50+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-09-22T00:30:34+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-09-22T00:31:07+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000260s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-09-22T00:31:08+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000443s ]
+
+[ 2018-09-22T00:31:28+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+
+[ 2018-09-22T00:33:07+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Undefined variable: title C:\wamp64\www\Express\Runtime\Cache\Kdadmin\bfe7f79b63c7f95864707bf2dbd643ef.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2018-09-22T00:34:32+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000393s ]
+
+[ 2018-09-22T00:35:11+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000406s ]
+
+[ 2018-09-22T00:35:40+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000426s ]
+
+[ 2018-09-22T00:36:02+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined variable: title C:\wamp64\www\Express\Runtime\Cache\Kdadmin\bfe7f79b63c7f95864707bf2dbd643ef.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2018-09-22T00:36:03+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000277s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] Undefined variable: title C:\wamp64\www\Express\Runtime\Cache\Kdadmin\bfe7f79b63c7f95864707bf2dbd643ef.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2018-09-22T00:37:03+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000391s ]
+NOTIC: [8] Undefined variable: title C:\wamp64\www\Express\Runtime\Cache\Kdadmin\bfe7f79b63c7f95864707bf2dbd643ef.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2018-09-22T00:37:42+08:00 ] 113.200.157.248 /kdadmin/news/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000674s ]
+NOTIC: [8] Undefined variable: title C:\wamp64\www\Express\Runtime\Cache\Kdadmin\bfe7f79b63c7f95864707bf2dbd643ef.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2018-09-22T02:22:08+08:00 ] 113.200.157.248 /kdadmin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000522s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2018-09-22T02:22:09+08:00 ] 113.200.157.248 /kdadmin/Index/Code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 9 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 10 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 11 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 12 行.
+NOTIC: [8] Use of undefined constant Kdadmin - assumed 'Kdadmin' C:\wamp64\www\kdweb\Express\Kdadmin\Conf\Config.php 第 13 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+

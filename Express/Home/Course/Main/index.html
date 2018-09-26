@@ -1,0 +1,91 @@
+<include file="Public:header"/>
+<style type="text/css">
+.input-control{padding-left: 45px;}
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#clean").click(function(){
+    $("#num").val("");
+  });
+});
+</script>
+<!-- 使用 -->
+<div class="ui-form ui-border-t">
+    <form action="__MODULE__/Preorder/prepay" method="post">
+        <!-- 联系人地址 -->
+       <if condition="$adressinfo.name eq null">
+        <div class="ui-tooltips-cnt ui-border-b">
+                    <i></i>你的信息不完善，请<a href="__MODULE__/User/addadress">点击这里</a>完善信息!<a class="ui-icon-close" id="close"></a>
+                </div>
+        <else/>
+        <div class="ui-form-item ui-form-item-link ui-border-b" style="height:60px;background: #ccc;" onclick='window.location="__MODULE__/Preorder/choseadress"'>
+                <div style="height: 60px;width:50px;"><i class="fa fa-map-marker" style="margin-right: 10px;margin-left: 10px;  font-size: 32px;line-height: 60px;"></i></div>
+                <div style="height: 60px;width: 250px;">
+                <p style="font-size: 16px;line-height: 28px;padding-top: 5px;">收件人：{$adressinfo.name}<span style="float: right;font-size: 16px">{$adressinfo.mobile}</span>
+                <p style="font-size: 12px;line-height: 18px;padding-top: 5px;">收件地址：{$adressinfo.area}-{$adressinfo.location}室
+                </div>    
+        </div>
+       </if>
+        
+         <!-- 选择快递公司 -->
+         <div class="ui-form-item ui-border-b">
+            <input type="hidden" name="adressid" value="{$adressinfo.id}">
+                        <label>选择快递</label>
+                        <div class="ui-select">
+                            <select name="express" id="express">
+                                <option>支持快递</option>
+                                <volist name="express" id="row">
+                                    <option>{$row.name}</option>
+                                </volist>            
+                            </select>
+                        </div>
+        </div>
+        <!-- 取货码 -->
+        <div class="ui-form-item ui-border-b">
+            <label>
+                取件编号
+            </label>
+            <input type="number" placeholder="不用“-”隔开" name="number">
+            <a href="javascript:void(0)" id="clean" class="ui-icon-close">
+            </a>
+        </div> 
+        <!--  备注信息-->
+        <div class="ui-form-item ui-border-b">
+            <label>
+                备注信息
+            </label>
+            <input type="text" placeholder="此项可空" name="note"> 
+            </a>
+        </div> 
+        <div class="ui-btn-wrap">
+            <button class="ui-btn-lg ui-btn-primary" type="submit" id="sub-btn">
+                确认
+            </button>
+        </div>
+    </form>
+
+    <div class="message" style="height: 250px;width: 100%;">
+        <div style="height: 150px;width: 150px;margin:0 auto;">
+            <img src="__PUBLIC__/img/katon.png" height="150px" width="150px">
+        </div>
+        <div style="text-align: center;margin-top: 10px;">
+            <h2 class="ui-txt-info">快递点两下，有爱就Doer了!</h2>
+        </div>
+    </div>
+</div>
+<load file="__JS__/dialog.js"/>
+<script type="text/javascript">
+$("#sub-btn").click(function(){
+    var express=$("#express").find("option:selected").text(); 
+    var number=$("input[name='number']").val();
+    if(express=="支持快递"){
+        dialog.error("请选择快递");
+        return false;
+    }
+    if(number==''){
+        dialog.error("取件编号不能为空");
+        return false;
+    }
+})
+</script>
+<include file="Public:footer"/>

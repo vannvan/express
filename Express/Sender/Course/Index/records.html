@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
+        <title>快递员~{$_SESSION['Sender']['sendername']}</title>
+        <!-- 引入 FrozenUI -->
+        <link rel="stylesheet" href="__PUBLIC__/bs/css/bootstrap.min.css"/>
+        <load file="__PUBLIC__/Script/jquery-3.3.1.min.js"/>
+        <load rel="stylesheet" href="__PUBLIC__/bs/js/bootstrap.min.js"/>
+        <load href="__PUBLIC__/js/layer/layer.js" />
+        <load href="__JS__/dialog.js"/>
+</head>
+<style type="text/css">
+/*分页样式*/
+.pages{margin:15px auto;text-align: center;overflow: hidden;}
+.pages a,.pages span {background: #00bc8c;display:inline-block;padding:3px 9px;margin:0 1px;border-radius:3px;color: #fff;font-size: 16px;}
+.pages a,.pages li {display:inline-block;list-style: none;text-decoration:none; color:#fff;}
+.pages a.first,.pages a.prev,.pages a.next,.pages a.end{}
+.page-prev,.page-next{padding:0px !important;margin:0 !important;}
+.pages a:hover{border-color:#50A8E6;}
+.pages span.current{background:#00cfb2;color:#FFF;font-weight:700;border-color:#50A8E6;padding:3px 9px;}
+</style>
+<body style="padding-bottom:20px;">
+ 	<div style="width:100%;height:45px;float:left;background:#ccc">
+		<a class="btn" onclick='window.location="__URL__/index"' style="padding-top:10px;float:left">查看待接单</a>
+    <a class="btn" onclick='window.location="__URL__/index"' style="padding-top:10px;float:right">查看已接单</a>
+	</div>
+		<table class="table table-striped table-hover " id="tableSort">
+		  <thead>
+		    <tr> 
+		      <th>快递</th>
+		      <th data-type="string">取件号</th>
+		      <th data-type="string">姓名</th>
+		      <th data-type="num">地址</th>
+		      <th>备注</th>
+          <th>完成时间</th>
+		    </tr>
+		  </thead>
+		  <tbody>
+		  <volist name="rows" id="vo">
+		    <tr>
+		      <td>{$vo.express}</td>
+		      <td>{$vo.number}</td>
+		      <td>{$vo.name}</td>
+		      <td>{$vo.area}-{$vo.location}</td>
+		      <td>{$vo.note}</td>
+          <td>{$vo.finishtime|date="m-d H:i:s",###}</td>     
+		    </tr>
+	      </volist>	
+		  </tbody>
+		</table>
+</div><div class="pages">{$page}</div>  
+</block>

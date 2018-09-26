@@ -1,0 +1,24 @@
+<include file="Public:header"/>
+<style type="text/css">
+img{display: none;}
+.content{overflow: hidden;white-space: nowrap;text-overflow:ellipsis; display: block;height: 50px;}
+</style>
+<div class="demo-item">
+        <!-- <p class="demo-desc">资讯信息</p> -->
+            <ul class="ui-list  ui-border-tb ui-list-nospace">
+            <volist name="rows" id="row">
+                <li onclick='window.location="__URL__/newsinfo/id/{$row.id}"'>
+                    <div class="ui-list-img-horizontal">
+                        <span style="background-image:url(__ROOT__/{$row.preimg})"></span>
+                    </div>
+                    <div class="ui-list-info">
+                        <h4 class="ui-nowrap">{$row.title}</h4>
+                        <span class="content">{$row.content}</span>
+                    </div>
+                </li>
+            </volist>
+            </ul>
+    </div>
+
+
+<include file="Public:footer"/>

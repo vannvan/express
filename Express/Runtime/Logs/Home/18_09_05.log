@@ -1,0 +1,2074 @@
+[ 2018-09-05T00:03:42+08:00 ] 203.208.60.120 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T00:09:15+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T00:14:49+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T00:27:41+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:36:54+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:37:07+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:37:18+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:37:37+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:37:41+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:37:47+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:37:51+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:38:03+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T00:38:09+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T01:34:29+08:00 ] 203.208.60.85 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T02:00:01+08:00 ] 120.92.72.149 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T02:06:50+08:00 ] 120.92.72.185 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T03:05:57+08:00 ] 203.208.60.43 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载控制器:Robots.txt
+
+[ 2018-09-05T03:05:58+08:00 ] 203.208.60.101 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T03:30:18+08:00 ] 139.224.238.50 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T03:35:07+08:00 ] 101.132.106.40 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T03:38:45+08:00 ] 177.185.219.235 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T05:06:42+08:00 ] 203.208.60.69 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载控制器:Robots.txt
+
+[ 2018-09-05T05:06:42+08:00 ] 203.208.60.22 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T05:59:04+08:00 ] 170.80.219.235 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T06:48:11+08:00 ] 203.208.60.14 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T06:58:09+08:00 ] 203.208.60.96 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T08:21:51+08:00 ] 101.78.238.188 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T08:29:32+08:00 ] 58.251.121.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T08:42:16+08:00 ] 14.163.246.99 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T08:48:50+08:00 ] 203.208.60.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:13:01+08:00 ] 203.208.60.86 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:27:09+08:00 ] 89.249.88.234 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:11+08:00 ] 116.62.117.159 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:11+08:00 ] 116.62.117.159 /explicit_not_exist_path
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载控制器:ExplicitNotExistPath
+
+[ 2018-09-05T09:36:11+08:00 ] 116.62.117.159 /index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:11+08:00 ] 116.62.117.159 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:11+08:00 ] 116.62.117.159 /index.jsp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载控制器:Index.jsp
+
+[ 2018-09-05T09:36:11+08:00 ] 116.62.117.159 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载控制器:Admin
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载控制器:Robots.txt
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /static/.gitignore
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载控制器:Static
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /4e5e5d7364f443e28fbf0d3ae744a59a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /?c=4e5e5d7364f443e28fbf0d3ae744a59a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /index.php/explicit_not_exist_path
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载控制器:ExplicitNotExistPath
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /README
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载控制器:README
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /solr/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载控制器:Solr
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /wcm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+ERR: 无法加载控制器:Wcm
+
+[ 2018-09-05T09:36:12+08:00 ] 116.62.117.159 /phpMyAdmin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载控制器:PhpMyAdmin
+
+[ 2018-09-05T09:36:13+08:00 ] 116.62.117.159 /pma/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载控制器:Pma
+
+[ 2018-09-05T09:36:41+08:00 ] 116.62.195.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:41+08:00 ] 116.62.195.177 /explicit_not_exist_path
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载控制器:ExplicitNotExistPath
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /index.jsp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载控制器:Index.jsp
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载控制器:Admin
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载控制器:Robots.txt
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /static/.gitignore
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载控制器:Static
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /4e5e5d7364f443e28fbf0d3ae744a59a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /?c=4e5e5d7364f443e28fbf0d3ae744a59a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /index.php/explicit_not_exist_path
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载控制器:ExplicitNotExistPath
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /README
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载控制器:README
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /solr/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载控制器:Solr
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /wcm/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载控制器:Wcm
+
+[ 2018-09-05T09:36:42+08:00 ] 116.62.195.177 /phpMyAdmin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+ERR: 无法加载控制器:PhpMyAdmin
+
+[ 2018-09-05T09:36:43+08:00 ] 116.62.195.177 /pma/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载控制器:Pma
+
+[ 2018-09-05T10:25:12+08:00 ] 179.110.169.8 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T10:29:39+08:00 ] 196.52.43.57 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T11:10:11+08:00 ] 203.208.60.10 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T11:39:12+08:00 ] 157.255.17.17 /ipc$
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载控制器:Ipc$
+
+[ 2018-09-05T11:57:41+08:00 ] 103.219.213.174 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T12:10:40+08:00 ] 203.208.60.103 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T12:54:38+08:00 ] 183.57.53.196 /4e5e5d7364f443e28fbf0d3ae744a59a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+
+[ 2018-09-05T13:24:47+08:00 ] 14.17.3.64 /pma
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载控制器:Pma
+
+[ 2018-09-05T13:26:04+08:00 ] 101.91.62.11 /index.jsp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载控制器:Index.jsp
+
+[ 2018-09-05T13:35:01+08:00 ] 58.251.121.184 /README
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载控制器:README
+
+[ 2018-09-05T13:40:35+08:00 ] 203.208.60.68 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T13:58:02+08:00 ] 185.175.156.73 /graphs/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载控制器:Graphs
+
+[ 2018-09-05T14:00:31+08:00 ] 203.208.60.63 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T15:01:31+08:00 ] 203.208.60.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T15:01:43+08:00 ] 111.175.50.137 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T15:10:40+08:00 ] 203.202.245.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T15:25:46+08:00 ] 79.155.120.112 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T15:33:28+08:00 ] 96.79.137.178 /phpMyAdmin/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载控制器:PhpMyAdmin
+
+[ 2018-09-05T15:33:29+08:00 ] 96.79.137.178 /pma/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载控制器:Pma
+
+[ 2018-09-05T15:33:29+08:00 ] 96.79.137.178 /myadmin/scripts/setup.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载控制器:Myadmin
+
+[ 2018-09-05T15:46:52+08:00 ] 14.17.21.58 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T16:51:18+08:00 ] 60.191.38.77 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T16:54:35+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T16:54:35+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T16:54:36+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T17:16:39+08:00 ] 71.6.232.4 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T17:33:43+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T17:33:43+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:18:03+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:18:03+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:21:39+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:21:50+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:21:54+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:22:00+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:22:03+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:22:06+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:23:49+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:24:31+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:25:21+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:25:48+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:26:11+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:26:33+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:26:41+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:27:01+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:27:47+08:00 ] 113.200.157.230 /Public/bs/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载控制器:Public
+
+[ 2018-09-05T18:32:21+08:00 ] 113.200.157.230 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T18:32:21+08:00 ] 113.200.157.230 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T18:32:22+08:00 ] 113.200.157.230 /home/index/index.html?code=061x2HAt1c6rEc0I3qzt1egKAt1x2HAt&state=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [2] Illegal string offset 'openid' C:\wamp64\www\Express\Home\Common\function.php 第 37 行.
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_userinfo` WHERE ( openid='{' )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 43 行.
+
+[ 2018-09-05T18:32:22+08:00 ] 113.200.157.230 /home/index/index.html?code=001SkBvp0YGFwq1vS9vp0Qtyvp0SkBvl&state=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_userinfo` WHERE ( openid='{' )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`nickname`,`openid` FROM `ui_userinfo` WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `ui_userinfo` SET `openid`='o1hEn1Sk8wx1ZpXAKm30yyi9dbNY',`nickname`='匆匆幾年。',`sex`='0',`headimgurl`='http://thirdwx.qlogo.cn/mmopen/vi_32/mhVD1iaZW2lkgxbjUibiajQ7lr7CaJThicgUGafFxp1FeqG5pgDJcOuxSXwNQoN6GTeDDMDGR7NTeInZpxZLu7LSIQ/132',`addtime`='1536143542' WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ui_express` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ui_adress` [ RunTime:0.0004s ]
+SQL: SELECT MAX(sort) AS tp_max FROM `ui_adress` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ui_adress` WHERE `userid` = 15 AND `sort` = 49 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `ui_express`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2018-09-05T18:32:23+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:32:23+08:00 ] 113.200.157.230 /home/index/index.html?code=02103ksC1mnVu40s3RqC14dcsC103ksl&state=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_userinfo` WHERE ( openid='{' )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`nickname`,`openid` FROM `ui_userinfo` WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `ui_userinfo` SET `openid`='o1hEn1Sk8wx1ZpXAKm30yyi9dbNY',`nickname`='匆匆幾年。',`sex`='0',`headimgurl`='http://thirdwx.qlogo.cn/mmopen/vi_32/mhVD1iaZW2lkgxbjUibiajQ7lr7CaJThicgUGafFxp1FeqG5pgDJcOuxSXwNQoN6GTeDDMDGR7NTeInZpxZLu7LSIQ/132',`addtime`='1536143543' WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ui_express` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ui_adress` [ RunTime:0.0005s ]
+SQL: SELECT MAX(sort) AS tp_max FROM `ui_adress` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ui_adress` WHERE `userid` = 15 AND `sort` = 49 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ui_express`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2018-09-05T18:32:24+08:00 ] 113.200.157.230 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T18:32:24+08:00 ] 113.200.157.230 /News
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_news` WHERE `status` = 1 ORDER BY addtime  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2018-09-05T18:32:25+08:00 ] 113.200.157.230 /home/news/newsinfo/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2018-09-05T18:32:28+08:00 ] 113.200.157.230 /home/news/newsinfo/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-09-05T18:32:30+08:00 ] 113.200.157.230 /home/news/newsinfo/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2018-09-05T18:32:31+08:00 ] 113.200.157.230 /home/news/newsinfo/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2018-09-05T18:32:33+08:00 ] 113.200.157.230 /home/news/newsinfo/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2018-09-05T18:32:35+08:00 ] 113.200.157.230 /home/news/newsinfo/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-09-05T18:32:36+08:00 ] 113.200.157.230 /home/news/newsinfo/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2018-09-05T18:32:39+08:00 ] 113.200.157.230 /home/news/newsinfo/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2018-09-05T18:32:41+08:00 ] 113.200.157.230 /home/news/newsinfo/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0007s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2018-09-05T18:32:42+08:00 ] 113.200.157.230 /User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`headimgurl`,`nickname` FROM `ui_userinfo` WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-09-05T18:32:44+08:00 ] 113.200.157.230 /home/user/records
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+
+[ 2018-09-05T18:32:46+08:00 ] 113.200.157.230 /User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`headimgurl`,`nickname` FROM `ui_userinfo` WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2018-09-05T18:32:47+08:00 ] 113.200.157.230 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_userinfo` WHERE ( openid='{' )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 43 行.
+
+[ 2018-09-05T18:32:48+08:00 ] 113.200.157.230 /home/index/index.html?code=061Gj4X52JztFL0CLXW525CuX52Gj4XX&state=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `ui_userinfo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `ui_userinfo` WHERE ( openid='{' )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`nickname`,`openid` FROM `ui_userinfo` WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `ui_userinfo` SET `openid`='o1hEn1Sk8wx1ZpXAKm30yyi9dbNY',`nickname`='匆匆幾年。',`sex`='0',`headimgurl`='http://thirdwx.qlogo.cn/mmopen/vi_32/mhVD1iaZW2lkgxbjUibiajQ7lr7CaJThicgUGafFxp1FeqG5pgDJcOuxSXwNQoN6GTeDDMDGR7NTeInZpxZLu7LSIQ/132',`addtime`='1536143568' WHERE `openid` = 'o1hEn1Sk8wx1ZpXAKm30yyi9dbNY' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ui_express` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ui_adress` [ RunTime:0.0004s ]
+SQL: SELECT MAX(sort) AS tp_max FROM `ui_adress` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ui_adress` WHERE `userid` = 15 AND `sort` = 49 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ui_express`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011051s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2018-09-05T18:33:21+08:00 ] 61.129.6.159 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T18:33:27+08:00 ] 61.129.6.159 /home/news/newsinfo/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `ui_news` [ RunTime:0.0006s ]
+SQL: SELECT `content` FROM `ui_news` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant data - assumed 'data' C:\wamp64\www\Express\Home\Controller\NewsController.class.php 第 21 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2018-09-05T18:33:45+08:00 ] 61.129.7.236 /home/user/records
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000825s ]
+
+[ 2018-09-05T18:37:05+08:00 ] 189.159.129.173 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T19:37:49+08:00 ] 89.100.134.109 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T19:52:48+08:00 ] 180.177.241.97 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T20:15:44+08:00 ] 190.186.46.166 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T20:41:49+08:00 ] 113.200.157.234 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T20:41:55+08:00 ] 113.200.157.234 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T22:09:33+08:00 ] 59.36.119.227 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T22:19:48+08:00 ] 111.21.39.57 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T22:19:48+08:00 ] 111.21.39.57 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+
+[ 2018-09-05T22:24:13+08:00 ] 80.82.70.118 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T22:39:09+08:00 ] 188.244.223.154 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T22:49:36+08:00 ] 183.57.53.222 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+
+[ 2018-09-05T23:56:41+08:00 ] 110.16.89.3 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant Home - assumed 'Home' C:\wamp64\www\Express\Home\Conf\config.php 第 20 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+NOTIC: [8] Undefined index: code C:\wamp64\www\Express\Home\Common\function.php 第 27 行.
+

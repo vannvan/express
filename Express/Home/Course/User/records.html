@@ -1,0 +1,91 @@
+<include file="Public:header"/>
+<include file="Public:header"/>
+<style type="text/css">
+.order-list{margin-top: 15px;margin-bottom: 80px;}
+.order-list li{height: 110px;width:100%;box-shadow: 4px 0 4px #ccc;margin-bottom: 15px;overflow: hidden;position: relative;}
+.subscript{
+        color: #fff;
+        height: auto;
+        width: 80px;
+        position: absolute;
+        right: -28px;
+        padding-left: 25px;
+        text-align: center;
+        font-size: 10px;
+        -moz-transform:rotate(45deg);
+        -webkit-transform:rotate(45deg);
+        -o-transform:rotate(45deg);
+        -ms-transform:rotate(45deg);
+        transform:rotate(45deg);
+      }
+.list-left{width: 100px;height: 100px;background: url(__PUBLIC__/img/katon3.png);float: left;}
+.list-right{height: 100px;width:auto;float: left;margin-left: 10px;margin-left: 30px;}
+</style>
+<div class="order-list">
+	<!-- 订单列表：订单编号、取件编号、下单时间、派送状态，取消订单按钮、确认收货按钮 -->
+	        <ul class="ui-list-link">
+                <volist name="rows" id="row">
+                <li>
+                    <div class="list-left" onclick='window.location="__URL__/recordinfo"'>
+                    	<div class="subscript" style="background: #12B7F5;">已完成</div>
+                    </div>
+                    <div class="list-right">
+                     {$row.ordernum}
+                     <p>取件号:{$row.number}
+                     <p style="font-size: 13px;">完成时间:{$row.finishtime|date="Y-m-d H:i:s",###}
+                     <p>
+                     	<button class="ui-btn ui-btn-danger order-delete" style="margin-left: 100px;" data-id="{$row.id}">
+		                    删除记录
+		                </button>
+                    </div>
+                </li>
+                </volist>
+            </ul>  
+   
+</div>
+<script type="text/javascript">
+    $(".order-delete").click(function(){
+    var id=$(this).attr('data-id');
+    var url="__URL__/orderdelete";
+    data={};
+    data['id']=id;
+    data['status']=-1;
+    //底部对话框
+      layer.open({
+        content: '删除订单不可恢复，确认要删除吗？'
+        ,btn: ['确认删除', '我手滑了']
+        ,skin: 'footer'
+        ,yes: function(index){
+          togiveup(url,data);
+        }
+      });
+
+});
+
+function togiveup(url,data){
+    $.post(
+        url,
+        data,
+        function(result){
+            if(result.status==1){
+                return layer.open({
+                    content: '删除成功'
+                    ,skin: 'msg'
+                    ,time: 2 //2秒后自动关闭
+                    ,end: function(){
+                    window.location.reload();//反馈到信息页面
+                  }
+                  });
+
+            }else{
+                return layer.open({
+                    content: '删除失败'
+                    ,skin: 'msg'
+                    ,time: 2 //2秒后自动关
+                  });
+            }
+        },"JSON");
+}
+</script>
+<include file="Public:footer"/>
+<include file="Public:footer"/>

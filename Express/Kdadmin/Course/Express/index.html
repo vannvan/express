@@ -1,0 +1,99 @@
+<include file="Public:header"/> 
+<extend name="Main:index"/>
+<block name="main">
+<load file="__CSS__/add.css"/>
+<!-- <a href="__URL__/add" class="btn btn-success" style="margin-left:15px;margin-bottom:10px;">添加楼区+</a> -->
+<button class="btn btn-success" data-toggle="modal" data-target="#myModal" style="margin-left:15px;margin-bottom:10px;">
+  添加快递点+
+</button>
+    <div class="col-lg-12" style="padding-left:0;">
+    <volist name="rows" id="row">
+      <div class="col-lg-2 col-xs-6 col-sm-2" style="padding-left:0">
+         <div class="panel panel-success">
+          <div class="panel-heading"><span style="font-size:22px;">校内</span><span style="float:right">{$row.status|getstatus}</span></div>
+           <ul class="list-group">
+            <li class="list-group-item" style="padding-left:10px;font-size:20px;text-align:center"><b>{$row.name}</li>
+              <div style="text-align:center;height:35px;font-size:20px;line-height:35px;">
+	             <if condition="$row.status eq 0">
+    		        <span><a href="__URL__/enabled/id/{$row.id}"><i class="fa fa-cloud-upload enabled" data-toggle="tooltip" data-placement="bottom" title="发布"></i></a></span>
+    		        <else/>
+    		        <span><a href="__URL__/disabled/id/{$row.id}"><i class="fa fa-cloud-download disabled" data-toggle="tooltip" data-placement="bottom" data-id={$row.id} title="撤回"></i></span>
+		        </if>
+		           <span><a><i class="fa fa-trash delete" data-toggle="tooltip" data-placement="bottom" data-id={$row.id} title="删除"></i></a></span>
+		      </div>
+           </ul>
+        </div>
+      </div>
+	
+      </volist>
+     </div>
+<script>
+  $(function () { $("[data-toggle='tooltip']").tooltip(); });
+</script>
+<script type="text/javascript">
+  var scope={
+    'deleteurl':'__URL__/del',
+  }
+</script>
+<load file="__JS__/de_dis_en.js"/>
+<style type="text/css">
+  #myModal {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+    }
+  @media screen and (max-width: 400px) {
+    #myModal {
+        position: absolute;
+        top: 40%;
+        left: 15%;
+        transform: translateX(-10%) translateY(-50%);
+    }
+   .modal-dialog{width:100%;
+        }
+   .lb{width:38px;}
+   }
+  footer{display: none;}
+</style>
+
+<!-- 添加区域模态框 -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content" style="padding: 10px;">
+     <form class="form-horizontal" action="__URL__/create" method="post" onsubmit="return validateForm()" enctype="multipart/form-data"> 
+        <fieldset>
+        <!-- name -->
+          <div class="form-group col-lg-12">
+            <label class="lb">Express</label>
+            <div class="col-lg-6 col-xs-10">
+              <input type="text" class="form-control" placeholder="包含东/西区" required="required"  maxlength="6" name="name">
+            </div>
+          </div>  
+        
+        <!--当前是否显示-->
+          <div class="form-group col-lg-12">
+            <label class="lb">status</label>
+            <div class="col-lg-6 col-xs-10">
+              <div class="radio col-xs-5">
+                <label>
+                  <input type="radio" name="status" value="1" checked="">显示
+                </label>
+                </div>
+              <div class="radio col-xs-5">
+              <label>
+                <input type="radio" name="status" value="0">不显示
+              </label>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-10 col-lg-offset-1 col-xs-11 col-xs-offset-1">
+            <button type="submit" class="btn btn-warning">确认添加</button>
+            <a href="" class="btn btn-primary col-xs-offset-1" data-dismiss="modal">取消</a>
+            </div>
+          </fieldset>
+  </form>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal -->
+</block>
+<include file="Public:footer"/>

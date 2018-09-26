@@ -1,0 +1,54 @@
+*{
+    text-shadow:none;
+    margin:0;
+    padding: 0;
+}
+html{
+    height:100%;
+    font-size:100%;
+    overflow-y:scroll;
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+}
+body{
+    height:100%;
+    margin:0 auto;
+    font-size:12px;
+}
+body, button, input, select, textarea {
+    font-family: "Microsoft YaHei UI Light", "Microsoft Yahei", "Helvetica Neue", "PingHei", Arial, Helvetica, sans-serif, Lato;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    color: #555;
+}
+em, i{
+    font-style:normal;
+}
+strong{
+    font-weight:normal;
+}
+a{
+    text-decoration:none;
+    color:#444;
+}
+ul, ol {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+ul li, ol li{
+    list-style-type:none;
+}
+form {
+    margin: 0;
+}
+img{ display: block;}
+
+/*@font-face {*/
+    /*font-family: 'AsemiBold';*/
+    /*src: url('../font/MYuenPRC-SemiBold.ttf');*/
+/*}*/
+
+/**{font-family: 'AsemiBold';}*/
+
+#loading{ position: fixed;width: 100%; height: 100%;z-index: 9999; background: #000;}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
+        <title>有爱Doer~{$title}</title>
+        <!-- 引入 FrozenUI -->
+        <link rel="stylesheet" href="__FROZEN__/release/css/frozenui.css"/>
+        <load file="__PUBLIC__/Script/jquery-3.3.1.min.js"/>
+        <load file="__PUBLIC__/font-awesome-4.7.0/css/font-awesome.min.css"/>
+        <load file="__PUBLIC__/layer_mobile/layer.js"/>
+</head><!-- 
+<div style="height: 35px;width: 100%;">
+	<a href="javascript:history.back(-1)">
+		<i class="fa fa-arrow-left" style="margin-left: 15px;line-height: 35px;" onclick=""></i>
+	</a>
+</div> -->
+<style type="text/css">
+body{background: #fff;}
+</style>
+<!-- 以下js代码用来实现当表单获取焦点时让底部导航栏消失，以免输入时在输入法顶部 -->
+<script type="text/javascript">
+$(document).ready(function(){
+       //当input获取焦点时
+      $("input").focus(function(){
+      $(".foot-nav").hide();
+    });
+      //当input失去焦点时
+       $("input").blur(function(){
+       $(".foot-nav").fadeIn(1500);
+    });
+
+});
+</script>

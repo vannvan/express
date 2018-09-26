@@ -1,0 +1,106 @@
+<include file="Public:header"/>
+<style type="text/css">
+.ui-select-group{margin-left: 20px;}
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#clean-name").click(function(){
+    $("#name").val("");
+  });
+	$("#clean-mobile").click(function(){
+    $("#mobile").val("");
+  });
+});
+</script>
+<div style="width:100%;" class="ui-form ui-border-t">
+    <form id="AdressArr">
+    	<!-- 姓名 -->
+         <div class="ui-form-item ui-border-b">
+            <label>
+                <span>真实姓名</span>
+            </label>
+            <input type="text" placeholder="收件人真实姓名"  id="name" name="name">
+            <input type="hidden" name="userid" value="{$data}">
+            <a href="javascript:void(0)" id="clean-name" class="ui-icon-close">
+            </a>
+        </div> 
+         <!--地址 -->
+         <div class="ui-form-item ui-border-b">
+            <label>收件地址</label>
+            <div class="ui-select-group">
+                <div class="ui-select">
+                    <select name="area">
+                    	<option value="">区域</option>
+                        <option>东区</option>
+                        <option>西区</option>
+                    </select>
+                </div>
+                <div class="ui-select">
+                    <select name="location1">
+                    	<option value="">楼号</option>
+                        <option>北一</option>
+                        <option>北二</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                        <option>北三</option>
+                    </select>
+                </div>
+                <div class="ui-select">
+                    <select name="location2">
+                    	<!-- value值为id值 若读取为空则表明用户未选，需做判断 -->
+                    	<option value="">楼层</option>
+                         <for start="1" end="6">
+                            <option value="{$i}">{$i}楼</option>
+                         </for>
+                    </select>
+                </div>
+                <div class="ui-select">
+                    <select name="location3">
+                        <option value="">寝室</option>
+                        <for start="01" end="32">
+                            <option value="{$i}">{$i}室</option>
+                        </for>
+                    </select>
+                </div>    
+            </div>
+        </div>
+        <!-- 手机号 -->
+        <div class="ui-form-item ui-border-b">
+            <label>
+                <span>手机号码</span>
+            </label>
+            <input type="number"  id="mobile" name="mobile">
+            <a href="javascript:void(0)" id="clean-mobile" class="ui-icon-close">
+            </a>
+        </div> 
+        <div class="ui-btn-wrap">
+            <button class="ui-btn-lg ui-btn-primary" id="add-btn" type="button">
+                确认添加
+            </button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+     var scope={
+    'addurl':'__URL__/create',
+    'jampurl':'__URL__/adressinfo/id/{$data}',
+  }
+</script>
+<load file="__JS__/dialog.js"/>
+<load file="__JS__/addadress.js"/>
+<include file="Public:footer"/>

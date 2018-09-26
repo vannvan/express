@@ -1,0 +1,28 @@
+<include file="Public:header"/>
+<script>
+$(document).ready(function(){
+ $("#tips").addClass("show");
+ $("#tips").fadeIn(3000);
+  var tips=$("#tips");  
+    tips.animate({top:'-100px'},"slow");
+ 
+});
+</script>
+<style type="text/css">
+.show{display: block;}
+</style>
+<div>
+	<div style="width:150px;height: 150px;margin-top: 50px;margin-left: auto;margin-right: auto;">
+		<img src="__PUBLIC__/img/公众号二维码500.png" height="150px;">
+	</div>
+	<div style="width: 80%;height: auto;margin:150px auto auto auto;text-align: center;display: none;position: relative;" id="tips">
+		<!-- <h2>平台服务体验尚且，</h2> -->
+		<h2>这里不知道放什么介绍啦！<p>如果你觉得有爱Doer很棒，<p>就推荐给你的朋友吧！</h2>
+		<!-- <h2 style="margin-top: 20px;">放一个招募合作伙伴的联系方式，你的技能，你的才干，我们需要，捧个人场，交个朋友[机智笑]</h2> -->	
+	</div>
+	<div style="position: fixed;bottom: 80px;text-align: center;height: 60px;width: 100%;">
+		<p style="font-size: 14px;">Copyright -2018&copy;www.uidoer.top All Rights Reserved 
+		<p>陕西染堇网络科技有限责任公司</p>
+	</div>
+</div>
+<include file="Public:footer"/>

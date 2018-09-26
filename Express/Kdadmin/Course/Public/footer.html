@@ -1,0 +1,16 @@
+<script type="text/javascript">
+$(document).ready(function(){
+       //当input获取焦点时
+      $("input").focus(function(){
+      $("footer").hide();
+    });
+      //当input失去焦点时
+       $("input").blur(function(){
+       $("footer").fadeIn(1500);
+    });
+
+});
+</script>
+<footer style="height:60px;width:100%;background:#ccc;text-align:center;padding-top:20px;position: fixed;bottom: 0;">若使用过程出现bug请及时联系技术人员————————微信sewenkk744;电话:18329684862</footer>
+</body>
+</html>

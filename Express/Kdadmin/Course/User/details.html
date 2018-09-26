@@ -1,0 +1,43 @@
+<include file="Public:header"/> 
+<extend name="Main:index"/>
+<block name="main">
+<style type="text/css">
+.tab{color: #31A100;margin-right: 45px;width: 100px;height:20px;line-height: 20px; font-weight: bolder; display:inline-block;}{//行内设置宽度}
+.info{height: 35px;width: auto;}
+}
+</style>
+
+ <div class="rightmain" style="margin-bottom:80px;">
+ 	<!-- left -->
+	<div class="panel panel-default" style="width:50%;height:auto;float:left">
+	<div class="panel-heading">
+	<span style="color:#f00;font-size:18px;">*绝对保密*</span>
+	</div
+	<ul class="list-group">
+		<li class="list-group-item"><span class="tab">OpenId</span><span class="info">{$data.openid}</span></li>
+		<li class="list-group-item"><span class="tab" style="letter-spacing:2em">昵称</span><span class="info">{$data.nickname}</span></li>
+		<li class="list-group-item"><span class="tab" style="letter-spacing:2em">性别</span><span class="info">{$data.sex|getsex}</span></li>
+		<li class="list-group-item"><span class="tab" style="letter-spacing:2em">头像</span><span class="info">
+		<img src="{$data.headimgurl}" style="height:50px;"></span>
+		</li>
+		<li class="list-group-item"><span class="tab">当前级别</span><span class="info">{$data.level}</span></li>
+		<li class="list-group-item"><span class="tab">当前积分</span><span class="info">{$data.integral}分</span></li>
+		<li class="list-group-item"><span class="tab">代取次数</span><span class="info">{$data.CountOrder}次</span></li>
+		<li class="list-group-item"><span class="tab">注册时间</span><span class="info">{$data.addtime|date='Y-m-d H:i:s',###}</span></li>
+	</ul>
+	</div>
+	<!-- right -->
+	<div class="panel panel-default" style="width:50%;height:auto;float:left">
+	<div class="panel-heading">
+	<span style="color:#f00;font-size:18px;">地址信息</span>
+	</div
+	<ul class="list-group">
+	    <volist name="rows" id="row">
+	    	<li class="list-group-item"><span style="font-weight:bolder">{$row.name} :{$row.mobile} {$row.area}-{$row.location}</span></li>
+	    </volist>
+	</ul>
+	</div>
+
+  </div>
+</block>
+<include file="Public:footer"/>
